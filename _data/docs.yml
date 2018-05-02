@@ -1,0 +1,19 @@
+- title: Sobre o projeto
+  docs:
+  - home
+  - justificativa
+  - objetivo
+  - metodologia
+  - parceria
+  - resultado_esperado
+
+- title: Itens originais do tema
+  docs:
+  - themes
+  - customization
+
+- title: Examples
+  docs:
+  - cheatsheet
+  - font-awesome
+  - bootstrap
