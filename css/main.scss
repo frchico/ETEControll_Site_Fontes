@@ -6,7 +6,6 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 
 
-
 @import
   {% if site.bootwatch %}
     "bootswatch/{{site.bootwatch | downcase}}/variables",
@@ -21,6 +20,10 @@
   "syntax-highlighting",
   "typeahead"
 ;
+
+.justify {
+  text-align: justify;
+}
 
 html {
   position: relative;

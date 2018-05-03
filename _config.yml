@@ -61,4 +61,4 @@ scholar:
   style: apa
   sort_by: author
   relative: "/jekyll-doc-theme/referencias.html"
-  # bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}
+  bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}

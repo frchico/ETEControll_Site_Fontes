@@ -6,9 +6,21 @@
   - metodologia
   - parceria
   - resultado_esperado
+  - material_apoio
+    
+
+- title: Arquitetura
+  docs:
+  - visao_geral
+
+- title: Ambiente de Desenvolvimento
+  docs:
+  - repositorio
+
 
 - title: Itens originais do tema
   docs:
+  - get_start
   - themes
   - customization
 
