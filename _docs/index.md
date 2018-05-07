@@ -3,7 +3,6 @@ title: Introdução
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
-
 A falta de tratamento de efluentes e o seu descarte inadequado acarretam em problemas ambientais. Quando o tratamento não é realizado, o descarte destes efluentes nos corpos receptores e no solo torna-se altamente nocivo à composição química da água e ao lençol freático que aos poucos vão sendo contaminados. Segundo {% cite amaral2017diretrizes %}, em áreas urbanas, com considerável concentração de pessoas, o lançamento sem tratamento dos esgotos aumenta ainda mais o risco, principalmente quanto à redução da qualidade da saúde da população. Por esta razão há a necessidade de se tratar os efluentes domésticos em ETE.
 
 

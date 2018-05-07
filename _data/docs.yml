@@ -6,17 +6,16 @@
   - metodologia
   - parceria
   - resultado_esperado
+  
+- title: Ambiente de Desenvolvimento
+  docs:
+  - ambiente_desenvolvimento
   - material_apoio
-    
+
 
 - title: Arquitetura
   docs:
   - visao_geral
-
-- title: Ambiente de Desenvolvimento
-  docs:
-  - repositorio
-
 
 - title: Itens originais do tema
   docs:
