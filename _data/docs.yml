@@ -10,6 +10,8 @@
 
 - title: Análise do sistema
   docs:
+  - documentacao/ete
+  - documentacao/parametros
   - documentacao/permissoes
   - material_apoio
 

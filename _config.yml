@@ -1,5 +1,6 @@
+nomesistema: &nome_sistema ETEControll
 # Site settings
-title: ETEControll
+title: *nome_sistema
 email: gsaneamentoambiental@gmail.com
 description: >
   Site da ferramenta ETEControll utilizada para auxiliar o processo em Estações de Tratamento de Efluentes.
