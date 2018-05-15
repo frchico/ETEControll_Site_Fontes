@@ -9,7 +9,7 @@ Para acessar as funcionalidades serão definidos 3 perfis de usuário, sendo:
 - *Técnico*: que realiza os apontamentos das coletas in loco da estação.
 
 
-Diante destes perfis, o acesso será disponibilizado conforme a tabela abaixo:
+Diante destes perfis, o acesso será disponibilizado conforme a tabela abaixo: 
 
 
 |:------------------------------------------------------------------:|:----------------------------------:|:----------:|

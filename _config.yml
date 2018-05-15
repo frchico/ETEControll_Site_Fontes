@@ -19,12 +19,14 @@ bootwatch: flatly #paper
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-scholar
+  - jekyll-toc
+  - jekyll-analytics
 
 exclude:
   - Gemfile
@@ -33,7 +35,7 @@ exclude:
   - .gitignore
   - README.md
   - TrabalhoETE.pdf
-timezone: US/Eastern
+timezone: America/Fortaleza
 
 defaults:
 - scope:
@@ -66,3 +68,19 @@ scholar:
   sort_by: "author"
   relative: "/ETEControll/referencias.html"
   bibliography_template: "<abbr>[{{key}}]</abbr>{{reference}}"
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-123-456          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+  #Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
+  #  url: matomo.example.com # Required - url to Matomo installation without trailing /
+  #  siteId: "1234"          # Required - replace with your Matomo site id (Write id as string)
+
+  #Piwik:                    # Add, if you want to track with Piwik
+  #  url: piwik.example.com  # Required - url to Piwik installation without trailing /
+  #  siteId: "1234"          # Required - replace with your Piwik site id (Write id as string)
+
+  #MPulse:                   # Add if you want to track performance with mPulse
+  #  apikey: XXXXX-YYYYY-ZZZZZ-AAAAA-23456   # Required - replace with your mPulse API key

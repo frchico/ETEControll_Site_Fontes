@@ -11,6 +11,6 @@ Apesar do banco de dados utilizado ser o SQL Server, é possível a construção
 
 Nossas telas tem como base o template [AdminBSB - MaterialDesign][AdminBSB]{: target="_blank"} por ser baseado *Material Design*, responsivo e **gratuito**. Um exemplo das telas pode ser visto em [aqui][AdminBSB_sample]{: target="_blank"}.
 
-Desta maneira, utilizando soluções gratuitas, damos o início ao desenvolvimento do projeto.
+Desta maneira, utilizando as soluções gratuitas, damos o início ao desenvolvimento do projeto.
 
 {% include /siglas_links.md %}

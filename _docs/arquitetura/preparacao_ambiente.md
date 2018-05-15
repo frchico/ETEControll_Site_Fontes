@@ -5,7 +5,7 @@ tags:
   - introdução
   - desenvolvimento
 summary: Breves instruções que irão ajudá-lo a começar rapidamente com o {{site.nome_sistema}}. Os outros tópicos desta ajuda fornecem informações adicionais e detalhes sobre como trabalhar com outros aspectos desta aplicação.
-
+toc: true
 #sidebar: mydoc_sidebar
 #permalink: index.html
 ---
