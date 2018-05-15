@@ -1,10 +1,10 @@
 ---
-title: "Preparação do ambiente de desenvolvimento"
+title: "Preparação do ambiente"
 keywords: introdução homepage desenvolvimento
 tags: 
   - introdução
   - desenvolvimento
-summary: Breves instruções que irão ajudá-lo a começar rapidamente com o ETEControll. Os outros tópicos desta ajuda fornecem informações adicionais e detalhes sobre como trabalhar com outros aspectos desta aplicação.
+summary: Breves instruções que irão ajudá-lo a começar rapidamente com o {{site.nome_sistema}}. Os outros tópicos desta ajuda fornecem informações adicionais e detalhes sobre como trabalhar com outros aspectos desta aplicação.
 
 #sidebar: mydoc_sidebar
 #permalink: index.html
@@ -13,7 +13,11 @@ summary: Breves instruções que irão ajudá-lo a começar rapidamente com o ET
 
 Siga as instruções a seguir para montar seu ambiente de desenvolvimento.
 
+
+
 ## Instalando o ambiente de desenvolvimento
+
+
 
 ### 1. Download do projeto
 

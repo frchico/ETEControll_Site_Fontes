@@ -1,4 +1,4 @@
-nomesistema: &nome_sistema ETEControll
+nome_sistema: &nome_sistema ETEControll
 # Site settings
 title: *nome_sistema
 email: gsaneamentoambiental@gmail.com
@@ -10,7 +10,7 @@ url: https://saneamentoambiental.github.io/ETEControll # the base hostname & pro
 git_address: "https://github.com/saneamentoambiental/ETEControll"
 git_edit_address: "https://github.com/saneamentoambiental/ETEControll"
 
-sitegrupopesquisa: "http://www.example.com"
+sitegrupopesquisa: "http://saneamentoambiental.github.io"
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap

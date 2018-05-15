@@ -12,23 +12,24 @@
   docs:
   - documentacao/ete
   - documentacao/parametros
+  - documentacao/associacao_parametro_ete
   - documentacao/permissoes
-  - material_apoio
+#  - material_apoio
 
 - title: Arquitetura
   docs:
   - visao_geral
   - arquitetura/preparacao_ambiente
-  - arquitetura/dicas
+#  - arquitetura/dicas
 
-- title: Itens originais do tema
-  docs:
-  - get_start
-  - themes
-  - customization
+#- title: Itens originais do tema
+#  docs:
+#  - get_start
+#  - themes
+#  - customization
 
-- title: Examples
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+#- title: Examples
+#  docs:
+#  - cheatsheet
+#  - font-awesome
+#  - bootstrap
