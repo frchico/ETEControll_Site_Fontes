@@ -10,4 +10,4 @@ Este projeto contribuirá, ainda, com o repositório de aplicações desenvolvid
 
 Por fim, este projeto de inovação tecnológica oferecerá significativamente para uma formação de maior qualidade dos alunos envolvidos no projeto, que devem estar matriculados no curso de [Bacharelado em Sistemas de Informação][ifs]{:target="_blank"} ou relacionado a Saneamento Ambiental, por apresentar e trabalhar com conteúdos interdisciplinares e que não estão elencados em sua matriz.
 
- {% include links.md %}
+ {% include siglas_links.md %}

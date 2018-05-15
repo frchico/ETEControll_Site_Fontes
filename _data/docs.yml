@@ -7,15 +7,17 @@
   - parceria
   - resultado_esperado
   
-- title: Ambiente de Desenvolvimento
-  docs:
-  - ambiente_desenvolvimento
-  - material_apoio
 
+- title: Análise do sistema
+  docs:
+  - documentacao/permissoes
+  - material_apoio
 
 - title: Arquitetura
   docs:
   - visao_geral
+  - arquitetura/preparacao_ambiente
+  - arquitetura/dicas
 
 - title: Itens originais do tema
   docs:

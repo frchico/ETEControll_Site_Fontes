@@ -14,4 +14,4 @@ Assim, entende-se que com o uso da ferramenta proposta, a dinâmica de trabalho 
 
 
 
-{% include siglas.md %}
+{% include siglas_links.md %}

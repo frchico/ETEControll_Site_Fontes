@@ -14,7 +14,7 @@ Sabe-se, ainda, que cada um dos parâmetros possui uma metodologia específica e
 
 A tecnologia vem para agregar mais agilidade nos processos e seu uso já se faz presente em algumas ETEs do Brasil e é recorrente nos países desenvolvidos. Automatizar toda uma estação sai muito caro, mas há a possibilidade de desenvolver uma ferramenta computacional multiplataforma para controlar o processo no que se refere à coleta de dados do processo e metodologia de determinação de parâmetros, que hoje é realizada de manualmente nas ETEs do estado de Sergipe.
 
-{% include siglas.md %}
+{% include siglas_links.md %}
 
 
 

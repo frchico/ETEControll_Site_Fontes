@@ -13,3 +13,4 @@ Para tal, é importante destacar que a equipe técnica trabalha para
 - Realizar testes de coletas nas ETE; 
 - Realizar questionário com os usuários do sistema para entender a usabilidade do sistema durante a coleta de dados em campo.
 
+{% include siglas_links.md %}

@@ -34,7 +34,7 @@ A quarta etapa será inicializada ao término da 3.2, uma vez que, serão realiz
 Será aplicado um questionário aos usuários para saber o nível de aceitação da ferramenta criada em termos de usabilidade em campo. A ferramenta utilizada para coletar as respostas será o [_Google Docs_][GoogleDocs]{:target="_blank"}, pois permite a aplicação de formulários eletrônicos e coleta de dados em formato tabular. Desta forma, o resultado desta etapa será utilizado para compreender o nível de aceitação da ferramenta, bem como os ajustes necessários para uma melhor experiência com o usuário.
 
 
-#### Atividades Gerais
+### Atividades Gerais
 
 As principais atividades que compõem a metodologia para este trabalho são listadas a seguir:
 
@@ -49,5 +49,4 @@ As principais atividades que compõem a metodologia para este trabalho são list
 Por fim, destaca-se que toda a atividade de construção será documentada para a produção de artigos científicos e relatórios técnicos.
 
 
-{% include siglas.md %}
-{% include links.md %}
+{% include siglas_links.md %}
