@@ -14,6 +14,7 @@ group :jekyll_plugins do
    gem "jekyll-seo-tag"
    gem "jekyll-toc"
    gem 'jekyll-analytics'
+   gem 'jekyll-extlinks'
 end
 
 gem 'jekyll-scholar'

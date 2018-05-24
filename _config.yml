@@ -27,6 +27,7 @@ plugins:
   - jekyll-scholar
   - jekyll-toc
   - jekyll-analytics
+  - jekyll-extlinks
 
 exclude:
   - Gemfile
@@ -68,6 +69,10 @@ scholar:
   sort_by: "author"
   relative: "/ETEControll/referencias.html"
   bibliography_template: "<abbr>[{{key}}]</abbr>{{reference}}"
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['host1.com', 'host2.net']
 
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics

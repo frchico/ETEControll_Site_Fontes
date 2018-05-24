@@ -4,6 +4,8 @@ title: Dicas
 
 ## Dicas de implementação utilizando AspNetBoilerplate
 
+#### Videos
+https://www.youtube.com/watch?v=5PKk-FLZ6EU
 
 ##### Arquivos de Localização
 Os arquivos de Localização são utilizados para traduzir um label para os usuários. No sistema utlizaremos a [API](https://www.aspnetboilerplate.com/Pages/Documents/Localization) para suportar mais de uma linguagem. 
@@ -56,3 +58,14 @@ Permite validar a permissão se pode ou não exportar alguns dados. Ver como faz
    - [Como fazer a auditoria](https://www.aspnetboilerplate.com/Pages/Documents/Entity-History) 
    - Labels em uma ação que é auditada
      - Util para vincular com caso de uso [Reason Property](https://www.aspnetboilerplate.com/Pages/Documents/Entity-History#reason-property)
+
+##### GRID
+
+   - https://forum.aspnetboilerplate.com/viewtopic.php?p=6617    
+   - https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2438
+   - https://datatables.net/forums/discussion/40690/sample-implementation-of-serverside-processing-in-c-mvc-ef-with-paging-sorting-searching
+   - https://shareurcodes.com/blog/dataTables%20server-side%20processing%20with%20custom%20parameters%20in%20codeigniter
+
+##### UI Samples
+
+   - https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/tables/jquery-datatable.html
