@@ -28,6 +28,7 @@
   docs:
   - visao_geral
   - arquitetura/preparacao_ambiente
+  - arquitetura/modelo_dados
 #  - arquitetura/dicas
 
 #- title: Itens originais do tema
