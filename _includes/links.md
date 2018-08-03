@@ -16,6 +16,21 @@
 
 [parametros_disponiveis_para_ete]: {{ "/docs/documentacao/parametros/" |  prepend: site.baseurl }}
 
-[associar_parametros_ete]: {{ "/docs/documentacao/associacao_parametro_ete/" |  prepend: site.baseurl }}
+[associar_parametros_ete]: {{ "/docs/documentacao/parametro_unidade_tratamento/" |  prepend: site.baseurl }}
 
 [dados_coleta_ete]: {{ "/docs/documentacao/coleta_parametros/" |  prepend: site.baseurl }}
+
+[caracteristica_monitoramento]: {{ "/docs/documentacao/parametro_unidade_tratamento/" |  prepend: site.baseurl }}
+
+[parametro_unidade_tratamento]: {{ "/docs/documentacao/parametro_unidade_tratamento/" |  prepend: site.baseurl }}
+
+[parametros]: {{ "/docs/documentacao/parametros/" |  prepend: site.baseurl }}
+
+[coleta_parametros]: {{ "/docs/documentacao/coleta_unidade_tratamento/" |  prepend: site.baseurl }}
+
+[coleta_unidade_tratamento]: {{ "/docs/documentacao/coleta_unidade_tratamento/" |  prepend: site.baseurl }}
+
+[parametro_coletado_unidade_tratamento]: {{ "/docs/documentacao/parametro_coletado_unidade_tratamento/" |  prepend: site.baseurl }}
+
+[unidade_tratamento]: {{ "/docs/documentacao/unidade_tratamento/" |  prepend: site.baseurl }}
+[unidade tratamento]:[unidade_tratamento]

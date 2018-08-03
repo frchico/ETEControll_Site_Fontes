@@ -10,10 +10,18 @@
 
 - title: Análise do sistema
   docs:
+  
   - documentacao/ete
   - documentacao/parametros
+  - documentacao/unidade_tratamento
+  - documentacao/parametro_unidade_tratamento
+
   - documentacao/associacao_parametro_ete
   - documentacao/permissoes
+  #  
+  - documentacao/coleta_unidade_tratamento
+  - documentacao/parametro_coletado_unidade_tratamento
+  
 #  - material_apoio
 
 - title: Arquitetura
