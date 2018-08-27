@@ -28,6 +28,7 @@
   docs:
   - visao_geral
   - arquitetura/preparacao_ambiente
+  - arquitetura/fluxo_desenvolvimento
   - arquitetura/modelo_dados
 #  - arquitetura/dicas
 
