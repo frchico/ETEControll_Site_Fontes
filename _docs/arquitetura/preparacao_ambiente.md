@@ -59,13 +59,13 @@ Por padrão estamos utilizando o `Sql Server` com o `EntityFramework`. Desta for
 
 ### 5. Altere o projeto padrão
 
-Faça com que o projeto `Web` seja o projeto padrão. 
+Faça com que o projeto `Web` seja o projeto padrão.
 
+{% include /callout.html content="É interessante o uso de plugins para a construção dos artefatos do projeto. Para tal, recomendamos que você faça uso do plugin <a target='_blank' href='https://github.com/sestek/ABPHelper'>ABP Helper</a> para auxiliar neste *setup*" type="primary" %}
 
+## Compilação
 
-{% include /callout.html content="É interessante o uso de plugins para a construção dos artefatos do projeto. Para tal, recomendamos que você faça uso do plugin <a target='_blank' href='https://github.com/sestek/ABPHelper'>ABP Helper</a> para auxiliar neste *setup*" type="primary" %} 
-
-
+Siga os passos descritos [aqui][help_compilacao] para compilar solução.
 
 ## Execução da solução
 

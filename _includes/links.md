@@ -36,3 +36,5 @@
 [unidade tratamento]:[unidade_tratamento]
 
 [fluxo_commit]: https://confluence.atlassian.com/bitbucket/resolve-issues-automatically-when-users-push-code-221451126.html
+
+[help_compilacao]: {{ "/docs/arquitetura/compilacao/" |  prepend: site.baseurl }}

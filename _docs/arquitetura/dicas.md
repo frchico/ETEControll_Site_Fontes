@@ -8,7 +8,7 @@ title: Dicas
 https://www.youtube.com/watch?v=5PKk-FLZ6EU
 
 ##### Arquivos de Localização
-Os arquivos de Localização são utilizados para traduzir um label para os usuários. No sistema utlizaremos a [API](https://www.aspnetboilerplate.com/Pages/Documents/Localization) para suportar mais de uma linguagem. 
+Os arquivos de Localização são utilizados para traduzir um label para os usuários. No sistema utlizaremos a [API](https://www.aspnetboilerplate.com/Pages/Documents/Localization) para suportar mais de uma linguagem.
 
 Serão criados arquivos em XML e a ordenação das chaves será por data de criação, ou seja, seguirá o proposto pela API
 
@@ -69,3 +69,10 @@ Permite validar a permissão se pode ou não exportar alguns dados. Ver como faz
 ##### UI Samples
 
    - https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/tables/jquery-datatable.html
+
+## VSTS e implantação
+
+- https://visualstudio.microsoft.com/dev-essentials/
+- https://azure.microsoft.com/en-us/free/
+- https://azure.microsoft.com/en-us/education/
+- https://www.microsoft.com/en-us/education

@@ -38,8 +38,9 @@
 #  - themes
 #  - customization
 
-#- title: Examples
-#  docs:
-#  - cheatsheet
+- title: Dicas
+  docs:
+  - dicas/combobox_com_ajax
+  - arquitetura/compilacao
 #  - font-awesome
 #  - bootstrap
