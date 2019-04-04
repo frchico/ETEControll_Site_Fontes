@@ -10,6 +10,12 @@ Ele é parte de um projeto de pesquisa, financiado pela PROPEX do Instituto Fede
 
 O site foi construído com base no [template](https://aksakalli.github.io/jekyll-doc-theme/). Nesta URL também é possível encontrar correções de erro do template que não foram replicadas para o site do ETEControll. Desta forma, sugerimos consultar o site para maiores informações e obter uma demonstração de uso.
 
+## Algumas mudanças em relação ao tema original
+
+- Faz uso de dependências que não são confiáveis para uso no github pages;
+- Necessita de procedimento de compilação e implantação;
+- Permite o uso de citações diretas e indiretas no texto
+
 # Executando na máquina local
 
 Para executar na máquina local você precisará instalar o Ruby, o [Jekyll](https://jekyllrb.com/) e as `gem` necessárias antes de iniciar o processo. Para tanto, utilizando o console, faça:
