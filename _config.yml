@@ -1,3 +1,5 @@
+encoding: utf-8
+
 nome_sistema: &nome_sistema ETEControll
 # Site settings
 title: *nome_sistema

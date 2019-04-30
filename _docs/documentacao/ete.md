@@ -5,7 +5,7 @@ tags:
   - requisitos
   - desenvolvimento
   - ete
-summary: Descrição das necessidades de estação de tratamento de efluetes para o sistema {{site.nome_sistema}}.
+summary: Descrição das necessidades de estação de tratamento de efluentes para o sistema {{site.nome_sistema}}.
 
 ---
 
